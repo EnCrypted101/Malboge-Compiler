@@ -1,3 +1,5 @@
+// After running the compiler save your malboge code as .mb file and run it by opening it on the running compiler code
+
 #include <iostream>
 #include <fstream>
 #include <string>
